@@ -9,6 +9,6 @@
      aux=a;
      a=b;
      b=aux;
-     printf("Intercanviat a i b es: %d l %d\n", a, b);
+     printf("Intercanviat a i b es: %d | %d\n", a, b);
      return;
  }
